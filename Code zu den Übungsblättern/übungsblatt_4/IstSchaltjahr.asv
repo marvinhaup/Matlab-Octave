@@ -1,0 +1,6 @@
+% Programm zum Prüfen ob Schaltjahr, oder nicht
+
+function [] = IstSchaltjahr()
+    inputYear = input('Geben Sie das zu Prüfende Jahr ein: ');
+    if(mod(inputYear,4) && mod   )
+end
